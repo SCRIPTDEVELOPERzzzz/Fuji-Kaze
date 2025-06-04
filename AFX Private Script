@@ -9,6 +9,10 @@ local whitelist = {
     [2548119720] = true, -- New
     [8470796004] = true, -- Whitelisted as requested
     [8435731222] = true, -- Whitelisted as requested
+    [8425543372] = true, -- Newly added
+    [4280308892] = true, -- Newly added
+    [3285745396] = true, -- Newly added
+    [8166156724] = true, -- Newly added
 }
 
 local player = game.Players.LocalPlayer
@@ -29,6 +33,10 @@ local userIdWhitelist = {
     [2548119720] = true, -- New
     [8470796004] = true, -- Whitelisted as requested
     [8435731222] = true, -- Whitelisted as requested
+    [8425543372] = true, -- Newly added
+    [4280308892] = true, -- Newly added
+    [3285745396] = true, -- Newly added
+    [8166156724] = true, -- Newly added
 }
 
 local function isPlayerNameWhitelisted(name)
