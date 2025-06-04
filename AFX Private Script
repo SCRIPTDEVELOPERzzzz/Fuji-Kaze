@@ -604,9 +604,9 @@ teleportTab:AddButton("Brawl aura 3", function()
 end)
 
 -- Credits Tab
-creditsTab:AddLabel("Credits to a r q for ui liba")
-creditsTab:AddLabel("Credits to DekuDimz#7960 aka me lol")
-creditsTab:AddLabel("Note: Made by CokeLikeASaint_Sen")
+creditsTab:AddLabel("Credits Fuji Kaze")
+creditsTab:AddLabel("Made For Alpha Fox X(AFX)")
+creditsTab:AddLabel("Note: Made by AFX_Xyz")
 
 -- Optional: Reload UI if needed
 if Lib and Lib.Reload then Lib:Reload() end
